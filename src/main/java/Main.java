@@ -6,6 +6,9 @@ public class Main { // Clase principal del programa
 
         // **1. Declaración e Inicialización de Variables**
 
+        // Crear una nueva variable entera
+        int dulces = 33;
+
         // Tipos de datos primitivos (almacenan valores directamente)
         int edad = 25; // Entero (32 bits)
         String nombre = "Juan"; // Cadena de texto (objeto)
