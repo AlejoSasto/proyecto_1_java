@@ -11,7 +11,7 @@ public class Main { // Clase principal del programa
 
         // Tipos de datos primitivos (almacenan valores directamente)
         int edad = 25; // Entero (32 bits)
-        String nombre = "Juan"; // Cadena de texto (objeto)
+        String nombre = "Fabio Alejandro Sastoque Rincón"; // Cadena de texto (objeto)
         double saldo = 1500.75; // Decimal de doble precisión (64 bits)
         boolean activo = true; // Booleano (verdadero o falso)
 
